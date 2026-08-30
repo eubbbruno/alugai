@@ -10,31 +10,31 @@ import { ChevronRight, ChevronLeft, ArrowRight } from 'lucide-react'
 const blogPosts = [
   { 
     title: "Os 10 carros mais econômicos de 2024",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/carro-popular.png",
     excerpt: "Descubra quais são os veículos que vão te fazer economizar na bomba este ano.",
     category: "Economia"
   },
   { 
     title: "Dicas para manter seu carro em ótimo estado",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/comercial.png",
     excerpt: "Aprenda como cuidar do seu veículo para garantir sua durabilidade e desempenho.",
     category: "Manutenção"
   },
   { 
     title: "O futuro dos carros elétricos no Brasil",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/luxo.png",
     excerpt: "Análise das tendências e desafios para a adoção de veículos elétricos no país.",
     category: "Tecnologia"
   },
   { 
     title: "As melhores rotas para road trips no Brasil",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/litoral-rodovia.png",
     excerpt: "Planeje sua próxima aventura com estas incríveis sugestões de viagens de carro.",
     category: "Viagens"
   },
   { 
     title: "Comparativo: SUVs x Sedans - Qual é o melhor para você?",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/suv.png",
     excerpt: "Uma análise detalhada para ajudar você a escolher o tipo de carro ideal para suas necessidades.",
     category: "Comparativos"
   }

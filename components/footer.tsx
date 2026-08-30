@@ -1,6 +1,6 @@
 'use client'
 
-import { Car, Facebook, Instagram, Linkedin } from 'lucide-react';
+import { Facebook, Instagram, Linkedin } from 'lucide-react';
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
