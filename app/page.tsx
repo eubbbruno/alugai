@@ -37,7 +37,7 @@ export default function Home() {
             alt="Carro em movimento"
             width={100}
             height={50}
-            objectFit="contain"
+            className="object-contain"
           />
         </motion.div>
 
